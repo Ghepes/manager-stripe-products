@@ -1,0 +1,1 @@
+# manager-stripe-products
